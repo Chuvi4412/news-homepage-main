@@ -1,0 +1,17 @@
+/*selector universal*/
+
+body{
+    font-family: 'Lucida Sans';
+}
+section{
+    width: 80%;
+    display: flex;
+    gap: 2rem;
+    margin: 0 auto;
+    pad: 3rem 0;
+}
+article{
+    border: 2px solid tomato;
+    padding: 1rem;
+}
+
